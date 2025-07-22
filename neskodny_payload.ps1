@@ -1,1 +1,1 @@
-New-Item -Path C:\Test_proveden.txt -ItemType File -Force
+New-Item -Path C:\Temp\Test_proveden.txt -ItemType File -Force
